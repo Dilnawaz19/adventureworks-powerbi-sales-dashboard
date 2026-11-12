@@ -16,19 +16,17 @@ This dashboard suite provides deep insights into revenue generation, profit marg
 * **Power Query:** Data extraction, transformation, and cleansing.
 * **GitHub:** Version control and project documentation.
 
-## 📸 Dashboard Preview
-
 ### Sales Overview
-![Sales Overview](screenshots/01_Sales_Overview.png)[cite: 1]
+![Sales Overview](01_Sales_Overview.png)
 
 ### Geographic Analysis
-![Geographic Analysis](screenshots/02_Geographic_Analysis.jpg)[cite: 2]
+![Geographic Analysis](02_Geographic_Analysis.png)
 
 ### Product Performance
-![Product Performance](screenshots/03_Product_Performance.png)[cite: 3]
+![Product Performance](03_Product_Performance.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/04_Customer_Analysis.png)[cite: 4]
+![Customer Analysis](04_Customer_Analysis.png)
 
 ## 📂 Repository Structure
 * `/dashboard` — Contains the `.pbix` Power BI source file.
